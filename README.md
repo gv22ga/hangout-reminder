@@ -1,7 +1,7 @@
 # hangout-remainder
 Script to send automated remainder every week at a specific time on an already existing hangout group
 <p align="center">
-  <img src="https://raw.githubusercontent.com/gv22ga/hangout-remainder/master/screenshot.png" width="350"/>
+  <img src="https://raw.githubusercontent.com/gv22ga/hangout-remainder/master/screenshot.png" width="500"/>
 </p>
 
 ## Steps to use
