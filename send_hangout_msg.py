@@ -48,7 +48,7 @@ def remind():
 
 
 if __name__ == '__main__':
-	schedule.every().friday.at("12:30").do(remind) # time in UTC
+	schedule.every().thursday.at("12:30").do(remind) # time in UTC
 	print('started')
 	while True:
 		schedule.run_pending()
