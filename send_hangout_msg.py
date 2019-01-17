@@ -18,7 +18,7 @@ REFRESH_TOKEN_PATH = 'refresh_token.txt'
 CONVERSATION_ID = '<HANGOUT_CONVERSATION_ID>'
 
 # message to send
-MESSAGE = 'automated remainder \U0001f60e \n <b>#FridayLunch</b> \n say no to cook'
+MESSAGE = 'automated reminder \U0001f60e \n <b>#FridayLunch</b> \n say no to cook'
 
 
 @asyncio.coroutine
