@@ -1,7 +1,7 @@
-# hangout-remainder
-Script to send automated remainder every week at a specific time on an already existing hangout group
+# hangout-reminder
+Script to send automated reminder every week at a specific time on an already existing hangout group
 <p align="center">
-  <img src="https://raw.githubusercontent.com/gv22ga/hangout-remainder/master/screenshot.png" width="500"/>
+  <img src="https://raw.githubusercontent.com/gv22ga/hangout-reminder/master/screenshot.png" width="500"/>
 </p>
 
 ## Steps to use
@@ -11,7 +11,7 @@ Script to send automated remainder every week at a specific time on an already e
 4. You might want to change the scheduling code as well `lines 51-55`.
 
 ## Why was this created?
-Me and my colleagues decided to have friday lunch together. But we all forget to say no to our cooks who would then prepare food before we even wake up :p So I created this script to send a remainder on our hangout group for the same.
+Me and my colleagues decided to have friday lunch together. But we all forget to say no to our cooks who would then prepare food before we even wake up :p So I created this script to send a reminder on our hangout group for the same.
 
 ## Credits
 I took the script from https://gist.github.com/tdryer/0cf6903eeb3dc948bae0 and changed it a bit to work with multiline messages.
